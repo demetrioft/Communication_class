@@ -28,7 +28,7 @@ US
 
  * Property in these areas is particularly susceptible to fire hazard given proximity to the forest
 
----
+---?image=assets/Pedrogao.jpg
 Portugal 
 
  * The number of hectares burned in 2017 was 53 times more than the annual average of the previous 10 years.
